@@ -40,53 +40,49 @@ body {
 
 .vregenbogen {
   margin-top: 5px;
+  font-size: 0px;
+  height: 100%;
+  box-sizing: border-box;
 }
 .vcolor1 {
   background-color: red;
-  width: 20vh;
-  height: 1000px;
+  width: 14.1vw;
+  height: 100vh;
   display: inline-block;
-  float: left;
 }
 .vcolor2 {
   background-color: coral;
-  width: 20vh;
-  height: 1000px;
+  width: 14.1vw;
+  height: 100vh;
   display: inline-block;
-  float: left;
 }
 .vcolor3 {
   background-color: yellow;
-  width: 20vh;
-  height: 1000px;
+  width: 14.1vw;
+  height: 100vh;
   display: inline-block;
-  float: left;
 }
 .vcolor4 {
   background-color: green;
-  width: 20vh;
-  height: 1000px;
+  width: 14.2vw;
+  height: 100vh;
   display: inline-block;
-  float: left;
 }
 .vcolor5 {
   background-color: deepskyblue;
-  width: 20vh;
-  height: 1000px;
+  width: 14.2vw;
+  height: 100vh;
   display: inline-block;
-  float: left;
 }
 .vcolor6 {
   background-color: darkblue;
-  width: 20vh;
-  height: 1000px;
+  width: 14.2vw;
+  height: 100vh;
   display: inline-block;
-  float: left;
 }
 .vcolor7 {
   background-color: blueviolet;
-  width: 20vh;
-  height: 1000px;
+  width: 14.2vw;
+  height: 100vh;
   display: inline-block;
-  float: left;
 }
