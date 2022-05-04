@@ -5,35 +5,88 @@ body {
 .color1 {
   background-color: red;
   width: 100%;
-  height: 10vh;
+  height: 9vh;
 }
 .color2 {
   background-color: coral;
   width: 100%;
-  height: 10vh;
+  height: 9vh;
 }
 .color3 {
   background-color: yellow;
   width: 100%;
-  height: 10vh;
+  height: 9vh;
 }
 .color4 {
   background-color: green;
   width: 100%;
-  height: 10vh;
+  height: 9vh;
 }
 .color5 {
   background-color: deepskyblue;
   width: 100%;
-  height: 10vh;
+  height: 9vh;
 }
 .color6 {
   background-color: darkblue;
   width: 100%;
-  height: 10vh;
+  height: 9vh;
 }
 .color7 {
   background-color: blueviolet;
   width: 100%;
-  height: 10vh;
+  height: 9vh;
+}
+
+.vregenbogen {
+  margin-top: 5px;
+}
+.vcolor1 {
+  background-color: red;
+  width: 20vh;
+  height: 1000px;
+  display: inline-block;
+  float: left;
+}
+.vcolor2 {
+  background-color: coral;
+  width: 20vh;
+  height: 1000px;
+  display: inline-block;
+  float: left;
+}
+.vcolor3 {
+  background-color: yellow;
+  width: 20vh;
+  height: 1000px;
+  display: inline-block;
+  float: left;
+}
+.vcolor4 {
+  background-color: green;
+  width: 20vh;
+  height: 1000px;
+  display: inline-block;
+  float: left;
+}
+.vcolor5 {
+  background-color: deepskyblue;
+  width: 20vh;
+  height: 1000px;
+  display: inline-block;
+  float: left;
+}
+.vcolor6 {
+  background-color: darkblue;
+  width: 20vh;
+  height: 1000px;
+  display: inline-block;
+  float: left;
+}
+.vcolor7 {
+  background-color: blueviolet;
+  width: 20vh;
+  height: 1000px;
+  display: inline-block;
+  float: left;
 }
