@@ -1,35 +1,39 @@
+body {
+  margin: 0%;
+}
+
 .color1 {
   background-color: red;
-  width: 100vw;
+  width: 100%;
   height: 10vh;
 }
 .color2 {
   background-color: coral;
-  width: 100vw;
+  width: 100%;
   height: 10vh;
 }
 .color3 {
   background-color: yellow;
-  width: 100vw;
+  width: 100%;
   height: 10vh;
 }
 .color4 {
   background-color: green;
-  width: 100vw;
+  width: 100%;
   height: 10vh;
 }
 .color5 {
   background-color: deepskyblue;
-  width: 100vw;
+  width: 100%;
   height: 10vh;
 }
 .color6 {
   background-color: darkblue;
-  width: 100vw;
+  width: 100%;
   height: 10vh;
 }
 .color7 {
   background-color: blueviolet;
-  width: 100vw;
+  width: 100%;
   height: 10vh;
 }
